@@ -1,10 +1,7 @@
- <p align="center"> Acompanhamento de Atividades e Notas </p>
-<p align="center"> <img width="416" height="106" alt="logo melhor" src="https://github.com/user-attachments/assets/55824aa8-a037-46b3-b0c9-a33bd6b2d159" />
-<p align="center"> Aplicação para centralizar o controle acadêmico: disciplinas por período, atividades com prazo e peso, notas e desempenho parcial. </p>
+<p align="center"> <img width="1140" height="300" alt="gradeflow-logo" src="https://github.com/user-attachments/assets/f81dbb80-71cd-4cad-895f-f915282f1a88" />
 
-##
-
-<p align="center"> <img width="6000" height="3375" alt="Blue and White Modern Mobile App Mockup Presentation Presentation (2)" src="https://github.com/user-attachments/assets/06961f41-10fe-4a67-899e-6e7c7b7f9512" /> 
+ ##
+<p align="center"> <img width="6000" height="3375" alt="Blue and White Modern Mobile App Mockup Presentation Presentation (3)" src="https://github.com/user-attachments/assets/6cb7d2b3-8d8d-42e9-af17-f248e2f02fec" />
 
 ## ✨ Funcionalidades
 - **Gestão de disciplinas** por período/semestre, com média mínima configurável.
@@ -85,8 +82,8 @@ Python 3.10+ · Streamlit · Pandas · SQLite · Tkinter (versão desktop) · Gi
 
 ## ▶️ Como executar
 ```bash
-git clone https://github.com/josiellycosta/Acompanhamento.git
-cd Acompanhamento
+git clone https://github.com/cauapaivadecarvalho85-cmyk/Acompanhamento-de-Atividades-e-Notas.git
+cd Acompanhamento-de-Atividades-e-Notas
 pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
