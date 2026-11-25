@@ -95,8 +95,7 @@ A versão web roda no navegador (`streamlit_app.py`) e compartilha as regras de 
 
 **No seu computador**
 ```bash
-pip install -r requirements.txt
-streamlit run streamlit_app.py
+python -m streamlit run streamlit_app.py
 ```
 
 **Dentro do GitHub (Codespaces)** — Code → Codespaces → *Create codespace on main*. O ambiente instala tudo e abre o app sozinho (porta 8501).
